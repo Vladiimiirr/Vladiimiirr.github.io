@@ -1,4 +1,4 @@
-## Дорбро пожаловать на главную страницу 
+## Добро пожаловать на главную страницу 
 ### Отчеты по выполненной работе
 1. Реферат на тему: [Нейрокомпьютерные интерфейсы](https://vladiimiirr.github.io/report/). 
  - [Скачать реферат](https://github.com/Vladiimiirr/Vladiimiirr.github.lo/raw/main/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D1%80%D0%B5%D1%84%D0%B5%D0%B9%D1%81.docx).
